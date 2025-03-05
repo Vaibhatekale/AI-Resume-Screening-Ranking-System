@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Resume Screening & Ranking System  
 
  An AI-powered system to screen and rank resumes based on job descriptions.  
@@ -64,3 +65,5 @@ Ab **is README.md ko paste karke commit kar**:
 git add README.md
 git commit -m "Added proper README file"
 git push origin main
+=======
+# AI-Resume-Screening-Ranking-System
